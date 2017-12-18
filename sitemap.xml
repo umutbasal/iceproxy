@@ -5,27 +5,27 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://free-proxy-list.hack4.net/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 <url>
-  <loc>http://free-proxy-list.hack4.net/ssl-proxy-list/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/ssl-proxy-list/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 <url>
-  <loc>http://free-proxy-list.hack4.net/socks4-proxy-list/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/socks4-proxy-list/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 <url>
-  <loc>http://free-proxy-list.hack4.net/socks5-proxy-list/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/socks5-proxy-list/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 <url>
-  <loc>http://free-proxy-list.hack4.net/web-proxy-list/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/web-proxy-list/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 <url>
-  <loc>http://free-proxy-list.hack4.net/free-pptp-vpn-list/</loc>
-  <lastmod>2017-05-21T13:58:26+00:00</lastmod>
+  <loc>http://iceproxy.net/free-pptp-vpn-list/</loc>
+  <lastmod>2017-12-18T13:58:26+00:00</lastmod>
 </url>
 </urlset>
